@@ -27,7 +27,7 @@ class HomeIndex extends React.Component {
 
                 <Banner />
 
-            </Layout>
+                </Layout>
         )
     }
 }
